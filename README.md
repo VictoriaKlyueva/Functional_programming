@@ -1,5 +1,6 @@
 # Programming-paradigms
  Laboratory work on the course programming paradigms
+ In progress now
 
 # Tasks:
 ## 1. Functional programming
