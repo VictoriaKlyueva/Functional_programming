@@ -1,5 +1,5 @@
 # Programming-paradigms
- Laboratory work on the course programming paradigms
+ Laboratory works on the course programming paradigms
  In progress now
 
 # Tasks:
