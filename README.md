@@ -1,7 +1,7 @@
 # Programming-paradigms
  Laboratory works on the course programming paradigms
 
-# Tasks:
+# Task:
 ## 1. Functional programming
 Напишите программу, которая будет выдавать правильный ответ в игре SET
 В игре SET участвует 81 карта, каждая с уникальной картинкой
